@@ -1,2 +1,1 @@
-# rsschool-cv
-init: start markdown task
+https://nbsn32.github.io/rsschool-cv/cv
