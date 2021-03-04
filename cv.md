@@ -8,7 +8,7 @@
 # JOB OBJECTIVE
 
 I want to obtain a position as a Junior or Trainee JS Developer.
-  
+
 # EDUCATION
   * Baranovichi State University, Faculty of Engineering, Process Engineer (2012-2017);  
   * Educational center StormNet, Software testing (2019).  
@@ -29,3 +29,12 @@ function shuffle(arr){
   return arr;
  } 
 ```
+
+# WORK EXPERIENCE
+`TBA`
+
+# LANGUAGES
+Native Russian  
+Pre-Intermediate English  
+Native Belarusian  
+Elementary Ukrainian  
